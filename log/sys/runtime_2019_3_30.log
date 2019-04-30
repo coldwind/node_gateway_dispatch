@@ -1,0 +1,45 @@
+[2019-3-30 0:35:18] log server listen tcp port:12321
+[2019-3-30 0:35:23] server start
+[2019-3-30 0:35:23] listen tcp port:19850
+[2019-3-30 0:35:23] listen http port:19851
+[2019-3-30 0:40:15] log server listen tcp port:12321
+[2019-3-30 0:40:20] server start
+[2019-3-30 0:40:20] listen tcp port:19850
+[2019-3-30 0:40:20] listen http port:19851
+[2019-3-30 3:48:20] server start
+[2019-3-30 3:48:20] listen tcp port:19850
+[2019-3-30 3:48:20] listen http port:19851
+[2019-3-30 3:57:32] server start
+[2019-3-30 3:57:32] listen tcp port:19850
+[2019-3-30 3:57:32] listen http port:19851
+[2019-3-30 4:6:35] server start
+[2019-3-30 4:6:35] listen tcp port:19850
+[2019-3-30 4:6:35] listen http port:19851
+[2019-3-30 4:7:3] log server listen tcp port:12321
+[2019-3-30 4:7:9] log server listen tcp port:12321
+[2019-3-30 4:8:10] log server listen tcp port:12321
+[2019-3-30 4:13:42] server start
+[2019-3-30 4:13:42] listen tcp port:19850
+[2019-3-30 4:13:42] listen http port:19851
+[2019-3-30 4:13:55] log server listen tcp port:12321
+[2019-3-30 4:16:40] log server listen tcp port:12321
+[2019-3-30 4:19:15] log server listen tcp port:12321
+[2019-3-30 4:22:26] log server listen tcp port:12321
+[2019-3-30 4:22:51] log server listen tcp port:12321
+[2019-3-30 4:23:48] log server listen tcp port:12321
+[2019-3-30 4:26:3] server start
+[2019-3-30 4:26:3] listen tcp port:19850
+[2019-3-30 4:26:3] listen http port:19851
+[2019-3-30 4:37:27] log server listen tcp port:12321
+[2019-3-30 4:37:51] log server listen tcp port:12321
+[2019-3-30 4:38:59] log server listen tcp port:12321
+[2019-3-30 4:52:37] log server listen tcp port:12321
+[2019-3-30 5:1:10] log server listen tcp port:12321
+[2019-3-30 5:1:41] log server listen tcp port:12321
+[2019-3-30 5:10:54] log server listen tcp port:12321
+[2019-3-30 5:11:56] log server listen tcp port:12321
+[2019-3-30 5:29:37] log server listen tcp port:12321
+[2019-3-30 5:47:37] log server listen tcp port:12321
+[2019-3-30 5:58:12] log server listen tcp port:12321
+[2019-3-30 5:59:14] log server listen tcp port:12321
+[2019-3-30 7:0:22] log server listen tcp port:12321
